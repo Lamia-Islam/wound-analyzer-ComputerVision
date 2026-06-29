@@ -5,7 +5,8 @@
 
 ---
 
-## ![Dashboard](<img width="2581" height="1941" alt="report_dashboard" src="https://github.com/user-attachments/assets/61fae5f0-c19b-4dcf-b668-b8a8c18b6264" />)
+## !Dashboard
+<img width="2581" height="1941" alt="report_dashboard" src="https://github.com/user-attachments/assets/61fae5f0-c19b-4dcf-b668-b8a8c18b6264" />
 
 
 ---
